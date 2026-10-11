@@ -149,6 +149,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1688-count-of-matches-in-tournament](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -234,6 +235,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
