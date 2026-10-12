@@ -156,6 +156,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -271,6 +272,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
@@ -354,6 +356,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
