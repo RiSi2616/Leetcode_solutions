@@ -42,6 +42,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -76,6 +77,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
