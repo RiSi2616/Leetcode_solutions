@@ -30,6 +30,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0035-search-insert-position](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -125,6 +126,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -243,6 +245,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
