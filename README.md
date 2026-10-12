@@ -124,6 +124,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0283-move-zeroes](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -354,4 +355,5 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
