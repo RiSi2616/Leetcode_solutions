@@ -96,6 +96,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0136-single-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -167,6 +168,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -283,6 +285,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0021-merge-two-sorted-lists](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
