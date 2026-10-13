@@ -69,6 +69,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -108,6 +109,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,6 +186,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
