@@ -80,6 +80,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0141-linked-list-cycle](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -153,6 +154,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0171-excel-sheet-column-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
@@ -205,6 +207,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
