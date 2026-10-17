@@ -67,6 +67,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -118,6 +120,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
