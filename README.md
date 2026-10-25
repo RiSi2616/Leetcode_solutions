@@ -50,6 +50,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0645-set-mismatch](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -158,6 +159,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -400,6 +402,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -427,6 +430,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -448,4 +452,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
