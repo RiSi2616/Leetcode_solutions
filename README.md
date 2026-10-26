@@ -72,6 +72,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -162,6 +163,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -403,6 +405,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -432,6 +435,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -456,4 +460,5 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
