@@ -80,6 +80,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -118,6 +119,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -291,6 +294,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
