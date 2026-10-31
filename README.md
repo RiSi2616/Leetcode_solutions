@@ -75,6 +75,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -169,6 +170,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [1672-richest-customer-wealth](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -300,6 +302,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0678-valid-parenthesis-string](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
