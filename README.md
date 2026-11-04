@@ -416,6 +416,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -444,6 +445,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -467,6 +469,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -475,6 +478,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
