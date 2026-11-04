@@ -446,6 +446,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -471,6 +472,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -481,6 +483,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RiSi2611/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -501,4 +504,8 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
