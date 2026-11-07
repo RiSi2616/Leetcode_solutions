@@ -34,6 +34,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | [0066-plus-one](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -263,6 +264,7 @@ My solutions to LeetCode problems, primarily written in C++.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -446,6 +448,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -459,6 +462,7 @@ My solutions to LeetCode problems, primarily written in C++.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -472,6 +476,7 @@ My solutions to LeetCode problems, primarily written in C++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RiSi2611/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RiSi2611/Leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
